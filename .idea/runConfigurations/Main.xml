@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Java Scratch">
+    <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <module name="3laba" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
